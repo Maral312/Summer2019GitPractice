@@ -5,5 +5,6 @@ public class Person {
     private String firstName;
     String jobTitle;
     String address;
+    String city;
 
 }
