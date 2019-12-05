@@ -6,4 +6,8 @@ public class Person {
     String jobTitle;
     String address;
 
+    public Person(int age) {
+        this.age=age;
+
+    }
 }
