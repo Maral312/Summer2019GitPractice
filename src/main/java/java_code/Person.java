@@ -5,6 +5,7 @@ public class Person {
     private String firstName;
     String jobTitle;
     String address;
+    String city;
 
     public Person(int age) {
         this.age=age;
