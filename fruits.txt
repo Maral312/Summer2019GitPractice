@@ -1,17 +1,4 @@
 apple
+pear
 
 
-
-/*
-guys stash is an easy idea. Your code is not ready to be committed yest,
- you stashed it away for a while (you pull updates) and later you pop your stash
- and keep developing
-
- after conflict warning messages:
- 1. git stash save "message"
- 2. git pull
- 3. git stash pop
- 4. git add .
- 5. git commit -m "...."
- 6. git push
-*/

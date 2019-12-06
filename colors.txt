@@ -1,8 +1,7 @@
 blue
-red
-green
+navy blue
+pink
 black
 yellow
 purple
-pink
-
+white
