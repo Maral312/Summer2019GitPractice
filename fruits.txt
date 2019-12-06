@@ -1,6 +1,1 @@
 apple
-pear
-cherry
-banana
-kiwi
-melon
