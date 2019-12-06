@@ -4,3 +4,4 @@ cherry
 banana
 kiwi
 melon
+Strawberry
